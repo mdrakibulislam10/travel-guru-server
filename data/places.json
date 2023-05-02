@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "id": "1",
+        "placeName": "Paris",
+        "description": "Experience the charm of the City of Love with its iconic landmarks such as the Eiffel Tower and Louvre Museum."
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1194&q=80",
+        "id": "2",
+        "placeName": "Tokyo",
+        "description": "Discover the bustling metropolis of Tokyo with its mix of ancient traditions and modern technology."
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "id": "3",
+        "placeName": "Sydney",
+        "description": "Explore the stunning Sydney Opera House and Bondi Beach in the vibrant city of Sydney."
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "id": "4",
+        "placeName": "Cairo",
+        "description": "Uncover the mysteries of ancient Egypt with a visit to the Pyramids of Giza and the Sphinx in Cairo."
+    }
+]
